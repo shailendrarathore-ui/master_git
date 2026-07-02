@@ -1,2 +1,1 @@
-hello git world!
-second line added
+hello from git conflict-branch
