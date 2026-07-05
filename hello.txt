@@ -1,3 +1,5 @@
 
 hello from git conflict-branch
 
+some bad commit 
+new line 
